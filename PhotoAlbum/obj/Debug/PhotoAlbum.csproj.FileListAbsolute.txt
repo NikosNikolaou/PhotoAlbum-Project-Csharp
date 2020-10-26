@@ -1,0 +1,8 @@
+d:\documents\visual studio 2015\Projects\PhotoAlbum\PhotoAlbum\bin\Debug\PhotoAlbum.exe.config
+d:\documents\visual studio 2015\Projects\PhotoAlbum\PhotoAlbum\bin\Debug\PhotoAlbum.exe
+d:\documents\visual studio 2015\Projects\PhotoAlbum\PhotoAlbum\bin\Debug\PhotoAlbum.pdb
+d:\documents\visual studio 2015\Projects\PhotoAlbum\PhotoAlbum\obj\Debug\PhotoAlbum.Properties.Resources.resources
+d:\documents\visual studio 2015\Projects\PhotoAlbum\PhotoAlbum\obj\Debug\PhotoAlbum.csproj.GenerateResource.Cache
+d:\documents\visual studio 2015\Projects\PhotoAlbum\PhotoAlbum\obj\Debug\PhotoAlbum.exe
+d:\documents\visual studio 2015\Projects\PhotoAlbum\PhotoAlbum\obj\Debug\PhotoAlbum.pdb
+d:\documents\visual studio 2015\Projects\PhotoAlbum\PhotoAlbum\obj\Debug\PhotoAlbum.PhotoAlbum.resources
